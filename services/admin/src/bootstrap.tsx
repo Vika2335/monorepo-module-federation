@@ -1,6 +1,7 @@
 import { createRoot } from 'react-dom/client';
 import { RouterProvider } from 'react-router-dom';
 import { router } from '@/router/Router'
+import './styles/main.scss';
 
 const root = document.getElementById('root')
 

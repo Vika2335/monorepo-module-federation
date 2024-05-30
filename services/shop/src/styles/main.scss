@@ -1,0 +1,11 @@
+@import 'shop';
+
+body {
+  font-size: 44px;
+  color: $background-color;
+}
+
+h1 {
+  border-color: $border-color;
+  border-bottom: 2px solid $background-color;
+}

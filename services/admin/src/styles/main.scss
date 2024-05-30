@@ -1,0 +1,12 @@
+@import 'variables';
+@import 'about';
+
+body {
+  font-size: $font-size;
+  color: $color;
+}
+
+h1 {
+  border-color: $border-color;
+  border: 2px solid;
+}

@@ -2,9 +2,13 @@ import React from 'react';
 
 export const About = () => {
   return (
-    <h1>
-      ABOUT
-    </h1>
+    <div>
+      <h1>
+        ABOUT
+      </h1>
+      <h2 className='button'>Click</h2>
+
+    </div>
   )   
 };
 

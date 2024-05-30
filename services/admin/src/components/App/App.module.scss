@@ -1,12 +1,19 @@
+@import '../../styles/variables';
+
+.app {
+  border: 2px solid $primary-color;
+  font-size: $font-size;
+}
+
 .button {
-    background: red;
-    padding: 10px;
+  background: red;
+  padding: 10px;
 }
 
 .value {
-    font-size: 100px;
+  font-size: 100px;
 }
 
 .icon {
-    color: blue;
+  color: blue;
 }
